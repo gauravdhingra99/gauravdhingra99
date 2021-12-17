@@ -1,17 +1,13 @@
 ## Hola, I'm [Gaurav Dhingra!]()<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 <a href="https://www.linkedin.com/in/gauravdhingra99/">
-  <img align="left" alt="Gautam's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Gaurav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/gauravdhingra99">
-  <img align="left" alt="Gautam's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Gaurav's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravdhingra99&label=Views&color=brightgreen&style=plastic" alt="gauravdhingra99" /> </p>
 <br/>
-
- [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/gauravdhingra99) 
- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/gauravdhingra99)
-
 
 
 - 🔭 Software Engineer with 2+ year experience.
