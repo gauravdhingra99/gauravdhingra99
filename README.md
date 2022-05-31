@@ -29,10 +29,6 @@
 <code><img height="20" src="https://images.app.goo.gl/M6j2tMP47dvi8qh5A"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-
-<a href="https://github.com/gauravdhingra99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravdhingra99&theme=dark" />
-</a>
 <a href="https://github.com/gauravdhingra99">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravdhingra99&count_private=true&show_icons=true&theme=dark&line_height=27" alt="Gaurav's github stats"/>
 </a>
